@@ -57,4 +57,4 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 
 ---
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RobithYusuf.RobithYusuf)](https://github.com/RobithYusuf)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=RobithYusuf&icon=2&color=0)](https://visitcount.itsvg.in)
