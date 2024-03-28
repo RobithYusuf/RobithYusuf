@@ -1,22 +1,60 @@
+# 👋 Hi there, I'm Robith Yusuf Al Fahsa!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robith_ya) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RobithYusuf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RobithYusuf&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobithYusuf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate Web Developer with 4 years of experience in Computer Science. I love exploring new technologies and solving complex problems. My goal is to create innovative solutions that make a positive impact on people's lives.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 🔧 Skills & Tools
+
+- Programming Languages: PHP, JavaScript
+- Web Development: HTML, CSS, Bootstrap, Laravel
+- Databases: MySQL
+- Tools & Frameworks: Git, GitHub
+- Other Skills: UI/UX Design, Photoshop, Canva
+
+## 🌟 Featured Projects
+
+- [E Commerce F&B Lokal DIY Yogyakarta](link_to_project_1) - E-Commerce F&B Lokal khusus daerah jogja dengan Payment Gateway (Admin, Customer).
+- [Sistem Informasi Pendaftaran Siswa Baru SD](link_to_project_2) - Sistem Informasi Pendaftaran Siswa Baru Website SD.
+- [Reservasi Hotel](link_to_project_3) - Sistem Informasi Reservasi Hotel Online dan admin dashboard (Payment Gateway).
+
+## 🌐 Connect with Me
+
+- LinkedIn: [https://www.linkedin.com/in/robithyusuf/](https://www.linkedin.com/in/robithyusuf/)
+- Twitter: [https://twitter.com/robith_ya](https://twitter.com/robith_ya)
+- Email: [robith.dev@gmail.com](mailto:robith.dev@gmail.com)
+- Portfolio: [https://robithdev.my.id/](https://robithdev.my.id/)
+
+## 📊 GitHub Stats
+
+![Robith Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobithYusuf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Achievements
+
+- NCC Education - L3DC (Level 3 Diploma In Computing)
+- TOEFL Tests (Test of English as a Foreign Language)
+- Microsoft Office Specialist
+
+## 📚 Blog Posts
+
+- [Blog Post 1](link_to_blog_post_1) - Brief description of the blog post.
+- [Blog Post 2](link_to_blog_post_2) - Brief description of the blog post.
+- [Blog Post 3](link_to_blog_post_3) - Brief description of the blog post.
+
+## 🤝 Contributing
+
+I'm open to collaboration and contributing to exciting projects. If you have any ideas or would like to work together, feel free to reach out to me.
+
+## 💡 Fun Fact
+
+I enjoy playing mobile games and participating in e-sports tournaments in my free time.
+
+## 📧 Get in Touch
+
+I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RobithYusuf&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://sociabuzz.com/robith_ya/donate) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RobithYusuf.RobithYusuf)](https://github.com/RobithYusuf)
