@@ -9,7 +9,7 @@ I'm a passionate Web Developer with 4 years of experience in Computer Science. I
 - Programming Languages: PHP, JavaScript
 - Web Development: HTML, CSS, Bootstrap, Laravel
 - Databases: MySQL
-- Tools & Frameworks: Git, GitHub
+- Tools & Frameworks: Git, GitHub, Visual Code, Notion
 - Other Skills: UI/UX Design, Photoshop, Canva
 
 ## 🌟 Featured Projects
