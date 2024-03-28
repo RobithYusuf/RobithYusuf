@@ -58,6 +58,3 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 ---
 
 [![](https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false" />
-</a>
