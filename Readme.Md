@@ -12,12 +12,6 @@ I'm a passionate Web Developer with 4 years of experience in Computer Science. I
 - Tools & Frameworks: Git, GitHub, Visual Code, Notion
 - Other Skills: UI/UX Design, Photoshop, Canva
 
-## 🌟 Featured Projects
-
-- [E Commerce F&B Lokal DIY Yogyakarta](link_to_project_1) - E-Commerce F&B Lokal khusus daerah jogja dengan Payment Gateway (Admin, Customer).
-- [Sistem Informasi Pendaftaran Siswa Baru SD](link_to_project_2) - Sistem Informasi Pendaftaran Siswa Baru Website SD.
-- [Reservasi Hotel](link_to_project_3) - Sistem Informasi Reservasi Hotel Online dan admin dashboard (Payment Gateway).
-
 ## 🌐 Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/robithyusuf/](https://www.linkedin.com/in/robithyusuf/)
