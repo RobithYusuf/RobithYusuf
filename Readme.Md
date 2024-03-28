@@ -31,12 +31,6 @@ I'm a passionate Web Developer with 4 years of experience in Computer Science. I
 - TOEFL Tests (Test of English as a Foreign Language)
 - Microsoft Office Specialist
 
-## 📚 Blog Posts
-
-- [Blog Post 1](link_to_blog_post_1) - Brief description of the blog post.
-- [Blog Post 2](link_to_blog_post_2) - Brief description of the blog post.
-- [Blog Post 3](link_to_blog_post_3) - Brief description of the blog post.
-
 ## 🤝 Contributing
 
 I'm open to collaboration and contributing to exciting projects. If you have any ideas or would like to work together, feel free to reach out to me.
