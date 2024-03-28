@@ -22,7 +22,7 @@ I'm a passionate Web Developer with 4 years of experience in Computer Science. I
 
 - LinkedIn: [https://www.linkedin.com/in/robithyusuf/](https://www.linkedin.com/in/robithyusuf/)
 - Twitter: [https://twitter.com/robith_ya](https://twitter.com/robith_ya)
-- Email: [robith.dev@gmail.com](mailto:robith.dev@gmail.com)
+- Email: [robithyusufalfahsa@gmail.com](mailto:robithyusufalfahsa@gmail.com)
 - Portfolio: [https://robithdev.my.id/](https://robithdev.my.id/)
 
 ## 📊 GitHub Stats
