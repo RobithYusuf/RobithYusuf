@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/robithyusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robithyusuf/" height="30" width="40" /></a>
 <a href="https://instagram.com/robith_ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robith_ya" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@robith_ya" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="@robith_ya" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@robith_ya" target="blank"><img align="center" src="[https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png](https://seeklogo.com/images/T/tiktok-logo-DA8B60CAD7-seeklogo.com.png)" alt="@robith_ya" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
