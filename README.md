@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats 
 
-![Robith Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact" alt="nababur" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobithYusuf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en" alt="nababur" /></p>
 
 ## 💡 Fun Fact
 
@@ -51,8 +51,5 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact" alt="nababur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en" alt="nababur" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
