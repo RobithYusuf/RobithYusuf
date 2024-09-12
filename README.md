@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@robithdev" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" />
+    <img align="center" src="https://seeklogo.com/images/T/tiktok-logo-DA8B60CAD7-seeklogo.com.png" alt="TikTok" height="30" width="40" />
   </a>
 </p>
 
