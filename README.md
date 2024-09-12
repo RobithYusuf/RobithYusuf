@@ -20,7 +20,7 @@
 
   
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="align-items:center">
   <a href="https://linkedin.com/in/robithyusuf/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@robithdev" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img align="center" src="https://seeklogo.com/images/T/tiktok-logo-DA8B60CAD7-seeklogo.com.png" alt="TikTok" height="30" width="40" />
+    <img align="center" src="https://seeklogo.com/images/T/tiktok-logo-DA8B60CAD7-seeklogo.com.png" alt="TikTok" height="30" width="auto" />
   </a>
 </p>
 
