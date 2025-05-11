@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a **Web Developer**
+- 🔭 I'm currently working as a **Fullstack Web Developer**
 - 🌱 I'm currently learning **React, Vue.js, Svelte**
 - 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, MySQL, Livewire**
 - 📫 How to reach me: **robithdev@gmail.com**
@@ -31,10 +31,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-   <a href="https://instagram.com/@robithdev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" alt="Tiktok" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@robithdev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="32" />
   </a>
@@ -44,19 +40,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps,svelte&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps,react,vue,svelte&theme=light&perline=6" />
   </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-</p>
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,svelte&theme=light" />
-  </a>
 </p>
 
 ## 🏆 Certifications
