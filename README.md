@@ -30,6 +30,10 @@
   <a href="https://instagram.com/robith_ya" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/robith_ya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 </p>
 
 ## 💻 Languages and Tools
@@ -56,13 +60,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+</div>
 
 ## 💡 Fun Fact
 
@@ -73,6 +75,11 @@ I enjoy playing mobile games and participating in e-sports tournaments in my fre
 I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
 
 ---
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/RobithYusuf/RobithYusuf/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Visit Count" />
