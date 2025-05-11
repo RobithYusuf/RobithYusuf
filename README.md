@@ -3,20 +3,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/robith_ya" target="blank">
-    <img src="https://img.shields.io/twitter/follow/robith_ya?logo=twitter&style=for-the-badge" alt="robith_ya" />
+  <a href="https://instagram.com/robith_ya" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="robith_ya" />
   </a>
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a **Web Developer**
-- 🌱 I'm currently learning **React, Vue.js**
-- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL**
+- 🌱 I'm currently learning **React, Vue.js, Svelte**
+- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL, Livewire**
 - 📫 How to reach me: **robithdev@gmail.com**
 - 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id/)
 
@@ -31,8 +31,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/robith_ya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  <a href="https://www.tiktok.com/@robithdev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="32" />
   </a>
 </p>
 
@@ -40,15 +40,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps,svelte&theme=light&perline=6" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
 ## 🌱 Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,vue,svelte&theme=light" />
   </a>
 </p>
 
@@ -60,10 +63,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" height="170" />
 </div>
 
 ## 💡 Fun Fact
@@ -82,5 +84,5 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Visit Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRobithYusuf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Visit Count" />
 </p>
