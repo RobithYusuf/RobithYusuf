@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently working as a **Web Developer**
 - 🌱 I'm currently learning **React, Vue.js, Svelte**
-- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL, Livewire**
+- 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, MySQL, Livewire**
 - 📫 How to reach me: **robithdev@gmail.com**
 - 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id/)
 
@@ -29,6 +29,10 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/robith_ya" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+   <a href="https://instagram.com/@robithdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" alt="Tiktok" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@robithdev" target="_blank">
@@ -82,7 +86,3 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRobithYusuf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Visit Count" />
-</p>
