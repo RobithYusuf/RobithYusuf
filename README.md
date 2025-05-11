@@ -78,7 +78,7 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/RobithYusuf/RobithYusuf/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
