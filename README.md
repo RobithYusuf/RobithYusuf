@@ -14,11 +14,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a **Fullstack Web Developer**
-- 🌱 I'm currently learning **React, Vue.js, Svelte**
-- 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, MySQL, Livewire**
+- 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
+- 💬 Ask me about **PHP, Laravel, Svelte, Codeigniter, MySQL, Livewire**
 - 📫 How to reach me: **robithdev@gmail.com**
-- 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id/)
+- 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id)
 
 ## 🔗 Connect with me
 
@@ -40,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps,react,vue,svelte&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps,react,vue,svelte&theme=light&perline=13" />
   </a>
 </p>
 <p align="center">
