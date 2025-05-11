@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robith Yusuf Al Fahsa</h1>
+<h1 align="center">Hi 👋, I'm Robith Yusuf</h1>
 <h3 align="center">A passionate Fullstack Web Developer with 4 years of experience in Computer Science</h3>
 
 <p align="center">
