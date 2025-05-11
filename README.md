@@ -1,80 +1,78 @@
-<h2 align="left">Hi 👋! Saya Robith Yusuf Al Fahsa, seorang Fullstack Web Developer dengan 4 tahun pengalaman di bidang Computer Science.</h2>
+<h1 align="center">Hi 👋, I'm Robith Yusuf Al Fahsa</h1>
+<h3 align="center">A passionate Fullstack Web Developer with 4 years of experience in Computer Science</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/robith_ya" target="blank">
+    <img src="https://img.shields.io/twitter/follow/robith_ya?logo=twitter&style=for-the-badge" alt="robith_ya" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-###
+## 🚀 About Me
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+- 🔭 I'm currently working as a **Web Developer**
+- 🌱 I'm currently learning **React, Vue.js**
+- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL**
+- 📫 How to reach me: **robithdev@gmail.com**
+- 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id/)
 
-###
+## 🔗 Connect with me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/robith_ya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+<p align="center">
   <a href="https://linkedin.com/in/robithyusuf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/robith_ya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/robith_ya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-</div>
+</p>
 
-###
+## 💻 Languages and Tools
 
-## 🚀 Tentang Saya
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,ps&theme=light&perline=5" />
+  </a>
+</p>
 
-- 🔭 Saat ini bekerja sebagai **Web Developer**
-- 🌱 Sedang mempelajari **React, Vue.js**
-- 💬 Tanya saya tentang **PHP, Laravel, JavaScript, MySQL**
-- 📫 Hubungi saya di **robithdev@gmail.com**
-- 📄 Lihat pengalaman saya di [https://robithdev.my.id/](https://robithdev.my.id/)
+## 🌱 Currently Learning
 
-## 🏆 Sertifikasi
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue&theme=light" />
+  </a>
+</p>
+
+## 🏆 Certifications
 
 - NCC Education - L3DC (Level 3 Diploma in Computing)
 - TOEFL (Test of English as a Foreign Language)
 - Microsoft Office Specialist
 
-## 💡 Fakta Menarik
+## 📊 GitHub Stats
 
-Saya menikmati bermain game mobile dan berpartisipasi dalam turnamen e-sports di waktu luang saya.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/RobithYusuf/RobithYusuf/output/snake.svg" alt="Snake animation" />
+## 💡 Fun Fact
 
-###
+I enjoy playing mobile games and participating in e-sports tournaments in my free time.
+
+## 📧 Get in Touch
+
+I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
+
+---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RobithYusuf&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Visit Count" />
