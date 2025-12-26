@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
-- 💬 Ask me about **PHP, Laravel, Svelte, Codeigniter, MySQL, Livewire**
+- 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
 - 📫 How to reach me: **robithdev@gmail.com**
 - 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id)
 
@@ -39,29 +39,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,laravel,tailwind,php,js,html,css,bootstrap,mysql,git,ps,react,vue&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=15" />
   </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-## 🏆 Certifications
-
-- NCC Education - L3DC (Level 3 Diploma in Computing)
-- TOEFL (Test of English as a Foreign Language)
-- Microsoft Office Specialist
-
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" height="170" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula&cache_seconds=86400" alt="GitHub Stats" height="170" />
 </div>
-
-## 💡 Fun Fact
-
-I enjoy playing mobile games and participating in e-sports tournaments in my free time.
 
 ## 📧 Get in Touch
 
