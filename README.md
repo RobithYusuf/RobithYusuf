@@ -46,13 +46,6 @@
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobithYusuf&show_icons=true&locale=en&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RobithYusuf&show_icons=true&locale=en&theme=dracula&cache_seconds=86400" alt="GitHub Stats" height="170" />
-</div>
-
 ## 📧 Get in Touch
 
 I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
