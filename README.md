@@ -17,7 +17,7 @@
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
 - 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
 - 📫 How to reach me: **robithdev@gmail.com**
-- 📄 Know about my experiences: [https://robithdev.my.id/](https://robithdev.my.id)
+- 📄 Know about my experiences: [https://robithdev.my.id](https://robithdev.my.id)
 
 ## 🔗 Connect with me
 
