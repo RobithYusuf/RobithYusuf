@@ -12,7 +12,7 @@
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <h2>🚀 About Me</h2>
 
@@ -23,10 +23,10 @@
 
 <h2>🛠️ My SaaS Projects</h2>
 
-- [simpandulu.com](https://simpandulu.com)
-- [kejarkarir.com](https://kejarkarir.com)
-- [vibetranslate.id](https://vibetranslate.id)
-- [desaincepat.com](https://desaincepat.com)
+- [simpandulu.com](https://simpandulu.com) - Bookmark manager cerdas untuk menyimpan dan mengorganisir artikel
+- [kejarkarir.com](https://kejarkarir.com) - Platform CV ATS-friendly dengan bantuan AI
+- [vibetranslate.id](https://vibetranslate.id) - Aplikasi desktop untuk translate dan enhance text dengan AI
+- [desaincepat.com](https://desaincepat.com) - Generator thumbnail dan desain gratis tanpa registrasi
 
 
 <h2>💻 Languages and Tools</h2>
