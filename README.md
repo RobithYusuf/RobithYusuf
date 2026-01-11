@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robith Yusuf</h1>
-<h3 align="center">A passionate Fullstack Web Developer with 4 years of experience in Computer Science</h3>
+<h3 align="center">A passionate Fullstack Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,24 +16,8 @@
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
 - 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
-- 📫 How to reach me: **robithdev@gmail.com**
-- 📄 Know about my experiences: [https://robithdev.my.id](https://robithdev.my.id)
+- 📫 How to reach me: **robith@sanggarkoding.com**
 
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/robithyusuf/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/robith_ya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@robithdev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="32" />
-  </a>
-</p>
 
 ## 💻 Languages and Tools
 
