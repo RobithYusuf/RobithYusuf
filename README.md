@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px; margin-bottom: 20px;">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px; margin-bottom: 20px; position: relative; z-index: 9999;">
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
-- 🚀 Founder of **sanggarkoding.com**
+- 🚀 Founder of **[sanggarkoding.com](https://sanggarkoding.com)**
 - 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
 - 📫 How to reach me: **robith@sanggarkoding.com**
 
