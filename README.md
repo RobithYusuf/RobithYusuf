@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
 - 🚀 Founder of **[sanggarkoding.com](https://sanggarkoding.com)**
