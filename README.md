@@ -9,10 +9,10 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px; margin-bottom: 20px; position: relative; z-index: 9999;">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<br/>
+<br/><br/><br/>
 
 <h2>🚀 About Me</h2>
 
