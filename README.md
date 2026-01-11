@@ -9,8 +9,10 @@
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px; margin-bottom: 20px;">
 </div>
+
+<br/>
 
 ## 🚀 About Me
 
