@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robith Yusuf</h1>
-<h3 align="center">A passionate Fullstack Web Developer</h3>
+<h3 align="center">A passionate Fullstack Web Developer & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="robith_ya" />
   </a>
 </p>
-
-<br/>
 
 <div align="center">
   <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
