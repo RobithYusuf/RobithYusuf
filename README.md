@@ -4,7 +4,7 @@
 ### A passionate Fullstack Web Developer & AI Enthusiast
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://instagram.com/robith_ya" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="robith_ya" />
   </a>
