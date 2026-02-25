@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Robith Yusuf</h1>
-<h3 align="center">A passionate Fullstack Web Developer & AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
+# Hi 👋, I'm Robith Yusuf
+### A passionate Fullstack Web Developer & AI Enthusiast
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://instagram.com/robith_ya" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="robith_ya" />
   </a>
 </p>
 
-<div align="center">
-  <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 </div>
 
-<h2>🚀 About Me</h2>
+---
+
+<table><tr><td>
+
+### 🚀 About Me
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
 - 🚀 Founder of **[sanggarkoding.com](https://sanggarkoding.com)**
 - 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
 - 📫 How to reach me: **robith@sanggarkoding.com**
 
-<h2>🛠️ My SaaS Projects</h2>
+</td></tr></table>
 
-- [simpandulu.com](https://simpandulu.com) - Bookmark manager cerdas untuk menyimpan dan mengorganisir artikel
-- [kejarkarir.com](https://kejarkarir.com) - Platform CV ATS-friendly dengan bantuan AI
-- [vibetranslate.id](https://vibetranslate.id) - Aplikasi desktop untuk translate dan enhance text dengan AI
-- [desaincepat.com](https://desaincepat.com) - Generator thumbnail dan desain gratis tanpa registrasi
+<table><tr><td>
 
+### 🛠️ My SaaS Projects
 
-<h2>💻 Languages and Tools</h2>
+| Project | Description |
+|---------|-------------|
+| [simpandulu.com](https://simpandulu.com) | Bookmark manager cerdas untuk menyimpan dan mengorganisir artikel |
+| [kejarkarir.com](https://kejarkarir.com) | Platform CV ATS-friendly dengan bantuan AI |
+| [vibetranslate.id](https://vibetranslate.id) | Aplikasi desktop untuk translate dan enhance text dengan AI |
+| [desaincepat.com](https://desaincepat.com) | Generator thumbnail dan desain gratis tanpa registrasi |
+
+</td></tr></table>
+
+<table><tr><td>
+
+### 💻 Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,13 +53,20 @@
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-<h2>📧 Get in Touch</h2>
+</td></tr></table>
+
+<table><tr><td>
+
+### 📧 Get in Touch
 
 I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
 
----
+</td></tr></table>
 
-<!-- Snake animation -->
+<table><tr><td>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+</td></tr></table>
