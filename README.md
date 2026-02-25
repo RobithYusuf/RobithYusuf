@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="65%">
 
 ### 🚀 About Me
 
@@ -26,7 +26,7 @@
 - 📫 How to reach me: **robith@sanggarkoding.com**
 
 </td>
-<td width="50%">
+<td width="35%">
 
 <div align="center">
   <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -42,11 +42,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=15" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=16" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" width="48" height="48" />
 </p>
 
 </td></tr></table>
