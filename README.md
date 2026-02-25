@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 </div>
 
 ---
@@ -31,25 +29,12 @@
 <td width="50%">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 </td>
 </tr>
 </table>
-
-<table><tr><td>
-
-### 🛠️ My SaaS Projects
-
-| Project | Description |
-|---------|-------------|
-| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize articles |
-| [kejarkarir.com](https://kejarkarir.com) | AI-powered ATS-friendly resume builder |
-| [vibetranslate.id](https://vibetranslate.id) | Desktop app for translating and enhancing text with AI |
-| [desaincepat.com](https://desaincepat.com) | Free thumbnail and design generator, no sign-up needed |
-
-</td></tr></table>
 
 <table><tr><td>
 
@@ -68,10 +53,29 @@
 
 <table><tr><td>
 
+### 🛠️ My SaaS Projects
+
+| Project | Description |
+|---------|-------------|
+| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize articles |
+| [kejarkarir.com](https://kejarkarir.com) | AI-powered ATS-friendly resume builder |
+| [vibetranslate.id](https://vibetranslate.id) | Desktop app for translating and enhancing text with AI |
+| [desaincepat.com](https://desaincepat.com) | Free thumbnail and design generator, no sign-up needed |
+
+</td></tr></table>
+
+<table><tr><td>
+
 ### 📧 Get in Touch
 
 I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
 
 </td></tr></table>
 
+<table><tr><td>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+</td></tr></table>
