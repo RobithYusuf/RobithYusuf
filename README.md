@@ -42,9 +42,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=16" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=15" />
   </a>
-  <img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" width="48" height="48" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
 </td></tr></table>
