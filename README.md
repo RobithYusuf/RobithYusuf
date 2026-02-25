@@ -16,7 +16,9 @@
 
 ---
 
-<table><tr><td>
+<table>
+<tr>
+<td width="50%">
 
 ### 🚀 About Me
 
@@ -25,7 +27,16 @@
 - 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
 - 📫 How to reach me: **robith@sanggarkoding.com**
 
-</td></tr></table>
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
 
 <table><tr><td>
 
@@ -33,10 +44,10 @@
 
 | Project | Description |
 |---------|-------------|
-| [simpandulu.com](https://simpandulu.com) | Bookmark manager cerdas untuk menyimpan dan mengorganisir artikel |
-| [kejarkarir.com](https://kejarkarir.com) | Platform CV ATS-friendly dengan bantuan AI |
-| [vibetranslate.id](https://vibetranslate.id) | Aplikasi desktop untuk translate dan enhance text dengan AI |
-| [desaincepat.com](https://desaincepat.com) | Generator thumbnail dan desain gratis tanpa registrasi |
+| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize articles |
+| [kejarkarir.com](https://kejarkarir.com) | AI-powered ATS-friendly resume builder |
+| [vibetranslate.id](https://vibetranslate.id) | Desktop app for translating and enhancing text with AI |
+| [desaincepat.com](https://desaincepat.com) | Free thumbnail and design generator, no sign-up needed |
 
 </td></tr></table>
 
@@ -63,10 +74,4 @@ I'm always eager to connect with fellow developers, designers, and tech enthusia
 
 </td></tr></table>
 
-<table><tr><td>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-</td></tr></table>
