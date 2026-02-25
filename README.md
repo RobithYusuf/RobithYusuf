@@ -51,16 +51,16 @@
 
 </td></tr></table>
 
-<table width="100%"><tr><td>
+<table><tr><td>
 
 ### 🛠️ My SaaS Projects
 
 | Project | Description |
-|---------|-------------|
-| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize articles |
-| [kejarkarir.com](https://kejarkarir.com) | AI-powered ATS-friendly resume builder |
-| [vibetranslate.id](https://vibetranslate.id) | Desktop app for translating and enhancing text with AI |
-| [desaincepat.com](https://desaincepat.com) | Free thumbnail and design generator, no sign-up needed |
+|:--------|:-----------------------------------------------------------------------------------------------------------------------------|
+| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize your favorite articles effortlessly from any browser                              |
+| [kejarkarir.com](https://kejarkarir.com) | AI-powered platform that helps you build professional ATS-friendly resumes in minutes                                        |
+| [vibetranslate.id](https://vibetranslate.id) | Desktop application for translating, rewriting and enhancing text using AI models                                             |
+| [desaincepat.com](https://desaincepat.com) | Free online thumbnail and design generator for blogs and YouTube — no sign-up needed                                         |
 
 </td></tr></table>
 
