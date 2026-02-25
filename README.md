@@ -51,7 +51,7 @@
 
 </td></tr></table>
 
-<table><tr><td>
+<table width="100%"><tr><td>
 
 ### 🛠️ My SaaS Projects
 
