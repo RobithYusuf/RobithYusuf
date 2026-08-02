@@ -1,81 +1,20 @@
-<div align="center">
+### Hi 👋, I'm Robith
 
-# Hi 👋, I'm Robith Yusuf
-### A passionate Fullstack Web Developer & AI Enthusiast
+I'm a fullstack web developer and AI engineer based in Indonesia. I build and ship SaaS products end to end, and I write open-source tooling that gives AI agents a real browser to work with.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=robithyusuf&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://instagram.com/robith_ya" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="robith_ya" />
-  </a>
-</p>
+- 🔭 Freelancing as a fullstack web developer, and founder of [sanggarkoding.com](https://sanggarkoding.com).
+- 🤖 Building open-source MCP servers for AI agents, mostly around stealth browser automation.
+- 🧰 Mostly working with Next.js, React, Svelte, Laravel, Tailwind, Node.js and Supabase.
+- 💼 Open for freelance web projects, feel free to [DM me on Instagram](https://www.instagram.com/robith_yusuf).
+- 📫 Reach me at robith@sanggarkoding.com.
 
-</div>
+Some of the products and projects I have built or maintain:
 
----
+- 🎨 [desaincepat.com](https://desaincepat.com) - Free thumbnail and design generator for blogs and YouTube, no sign-up needed.
+- 🕵️ [mcp-stealth-chrome](https://github.com/RobithYusuf/mcp-stealth-chrome) - Stealth Chrome MCP server, 149 tools with Turnstile and reCAPTCHA bypass.
+- 🦊 [mcp-camoufox](https://github.com/RobithYusuf/mcp-camoufox) - Stealth Firefox MCP server via Camoufox, 127 tools with npx install.
+- 🔖 [simpandulu.com](https://simpandulu.com) - Smart bookmark manager to save and organize articles from any browser.
+- 🌐 [vibetranslate](https://github.com/RobithYusuf/vibetranslate) - AI translation and voice dictation for macOS and Windows, works offline.
+- 📄 [kejarkarir.com](https://kejarkarir.com) - AI-powered builder for ATS-friendly resumes.
 
-<table>
-<tr>
-<td width="65%">
-
-### 🚀 About Me
-
-- 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
-- 🚀 Founder of **[sanggarkoding.com](https://sanggarkoding.com)**
-- 💬 Ask me about **Next.js, React, Svelte, Laravel, Tailwind, Node.js, Supabase, MySQL**
-- 📫 How to reach me: **robith@sanggarkoding.com**
-
-</td>
-<td width="35%">
-
-<div align="center">
-  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
-</td>
-</tr>
-</table>
-
-<table><tr><td>
-
-### 💻 Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,laravel,tailwind,php,nodejs,supabase,js,html,css,bootstrap,mysql,git,vite&theme=light&perline=15" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-</p>
-
-</td></tr></table>
-
-<table><tr><td>
-
-### 🛠️ My SaaS Projects
-
-| Project | Description |
-|:--------|:-----------------------------------------------------------------------------------------------------------------------------|
-| [simpandulu.com](https://simpandulu.com) | Smart bookmark manager to save and organize your favorite articles effortlessly from any browser                              |
-| [kejarkarir.com](https://kejarkarir.com) | AI-powered platform that helps you build professional ATS-friendly resumes in minutes                                        |
-| [vibetranslate.id](https://vibetranslate.id) | Desktop application for translating, rewriting and enhancing text using AI models                                             |
-| [desaincepat.com](https://desaincepat.com) | Free online thumbnail and design generator for blogs and YouTube — no sign-up needed                                         |
-
-</td></tr></table>
-
-<table><tr><td>
-
-### 📧 Get in Touch
-
-I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
-
-</td></tr></table>
-
-<table><tr><td>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-</td></tr></table>
+Also on [YouTube](https://www.youtube.com/@robith_ya) and [Instagram](https://www.instagram.com/robith_yusuf).
